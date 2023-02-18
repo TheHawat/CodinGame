@@ -1,0 +1,15 @@
+C:\Users\Hawat\source\repos\AnAdventureInTheFantasyWorld\AnAdventureInTheFantasyWorld\bin\Debug\net6.0\AnAdventureInTheFantasyWorld.exe
+C:\Users\Hawat\source\repos\AnAdventureInTheFantasyWorld\AnAdventureInTheFantasyWorld\bin\Debug\net6.0\AnAdventureInTheFantasyWorld.deps.json
+C:\Users\Hawat\source\repos\AnAdventureInTheFantasyWorld\AnAdventureInTheFantasyWorld\bin\Debug\net6.0\AnAdventureInTheFantasyWorld.runtimeconfig.json
+C:\Users\Hawat\source\repos\AnAdventureInTheFantasyWorld\AnAdventureInTheFantasyWorld\bin\Debug\net6.0\AnAdventureInTheFantasyWorld.dll
+C:\Users\Hawat\source\repos\AnAdventureInTheFantasyWorld\AnAdventureInTheFantasyWorld\bin\Debug\net6.0\AnAdventureInTheFantasyWorld.pdb
+C:\Users\Hawat\source\repos\AnAdventureInTheFantasyWorld\AnAdventureInTheFantasyWorld\obj\Debug\net6.0\AnAdventureInTheFantasyWorld.csproj.AssemblyReference.cache
+C:\Users\Hawat\source\repos\AnAdventureInTheFantasyWorld\AnAdventureInTheFantasyWorld\obj\Debug\net6.0\AnAdventureInTheFantasyWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hawat\source\repos\AnAdventureInTheFantasyWorld\AnAdventureInTheFantasyWorld\obj\Debug\net6.0\AnAdventureInTheFantasyWorld.AssemblyInfoInputs.cache
+C:\Users\Hawat\source\repos\AnAdventureInTheFantasyWorld\AnAdventureInTheFantasyWorld\obj\Debug\net6.0\AnAdventureInTheFantasyWorld.AssemblyInfo.cs
+C:\Users\Hawat\source\repos\AnAdventureInTheFantasyWorld\AnAdventureInTheFantasyWorld\obj\Debug\net6.0\AnAdventureInTheFantasyWorld.csproj.CoreCompileInputs.cache
+C:\Users\Hawat\source\repos\AnAdventureInTheFantasyWorld\AnAdventureInTheFantasyWorld\obj\Debug\net6.0\AnAdventureInTheFantasyWorld.dll
+C:\Users\Hawat\source\repos\AnAdventureInTheFantasyWorld\AnAdventureInTheFantasyWorld\obj\Debug\net6.0\refint\AnAdventureInTheFantasyWorld.dll
+C:\Users\Hawat\source\repos\AnAdventureInTheFantasyWorld\AnAdventureInTheFantasyWorld\obj\Debug\net6.0\AnAdventureInTheFantasyWorld.pdb
+C:\Users\Hawat\source\repos\AnAdventureInTheFantasyWorld\AnAdventureInTheFantasyWorld\obj\Debug\net6.0\AnAdventureInTheFantasyWorld.genruntimeconfig.cache
+C:\Users\Hawat\source\repos\AnAdventureInTheFantasyWorld\AnAdventureInTheFantasyWorld\obj\Debug\net6.0\ref\AnAdventureInTheFantasyWorld.dll
