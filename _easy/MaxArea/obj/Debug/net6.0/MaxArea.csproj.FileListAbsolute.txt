@@ -1,0 +1,15 @@
+C:\Users\Hawat\source\repos\MaxArea\MaxArea\bin\Debug\net6.0\MaxArea.exe
+C:\Users\Hawat\source\repos\MaxArea\MaxArea\bin\Debug\net6.0\MaxArea.deps.json
+C:\Users\Hawat\source\repos\MaxArea\MaxArea\bin\Debug\net6.0\MaxArea.runtimeconfig.json
+C:\Users\Hawat\source\repos\MaxArea\MaxArea\bin\Debug\net6.0\MaxArea.dll
+C:\Users\Hawat\source\repos\MaxArea\MaxArea\bin\Debug\net6.0\MaxArea.pdb
+C:\Users\Hawat\source\repos\MaxArea\MaxArea\obj\Debug\net6.0\MaxArea.csproj.AssemblyReference.cache
+C:\Users\Hawat\source\repos\MaxArea\MaxArea\obj\Debug\net6.0\MaxArea.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hawat\source\repos\MaxArea\MaxArea\obj\Debug\net6.0\MaxArea.AssemblyInfoInputs.cache
+C:\Users\Hawat\source\repos\MaxArea\MaxArea\obj\Debug\net6.0\MaxArea.AssemblyInfo.cs
+C:\Users\Hawat\source\repos\MaxArea\MaxArea\obj\Debug\net6.0\MaxArea.csproj.CoreCompileInputs.cache
+C:\Users\Hawat\source\repos\MaxArea\MaxArea\obj\Debug\net6.0\MaxArea.dll
+C:\Users\Hawat\source\repos\MaxArea\MaxArea\obj\Debug\net6.0\refint\MaxArea.dll
+C:\Users\Hawat\source\repos\MaxArea\MaxArea\obj\Debug\net6.0\MaxArea.pdb
+C:\Users\Hawat\source\repos\MaxArea\MaxArea\obj\Debug\net6.0\MaxArea.genruntimeconfig.cache
+C:\Users\Hawat\source\repos\MaxArea\MaxArea\obj\Debug\net6.0\ref\MaxArea.dll

@@ -1,0 +1,15 @@
+C:\Users\Hawat\source\repos\JoinTheDots\JoinTheDots\bin\Debug\net6.0\JoinTheDots.exe
+C:\Users\Hawat\source\repos\JoinTheDots\JoinTheDots\bin\Debug\net6.0\JoinTheDots.deps.json
+C:\Users\Hawat\source\repos\JoinTheDots\JoinTheDots\bin\Debug\net6.0\JoinTheDots.runtimeconfig.json
+C:\Users\Hawat\source\repos\JoinTheDots\JoinTheDots\bin\Debug\net6.0\JoinTheDots.dll
+C:\Users\Hawat\source\repos\JoinTheDots\JoinTheDots\bin\Debug\net6.0\JoinTheDots.pdb
+C:\Users\Hawat\source\repos\JoinTheDots\JoinTheDots\obj\Debug\net6.0\JoinTheDots.csproj.AssemblyReference.cache
+C:\Users\Hawat\source\repos\JoinTheDots\JoinTheDots\obj\Debug\net6.0\JoinTheDots.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hawat\source\repos\JoinTheDots\JoinTheDots\obj\Debug\net6.0\JoinTheDots.AssemblyInfoInputs.cache
+C:\Users\Hawat\source\repos\JoinTheDots\JoinTheDots\obj\Debug\net6.0\JoinTheDots.AssemblyInfo.cs
+C:\Users\Hawat\source\repos\JoinTheDots\JoinTheDots\obj\Debug\net6.0\JoinTheDots.csproj.CoreCompileInputs.cache
+C:\Users\Hawat\source\repos\JoinTheDots\JoinTheDots\obj\Debug\net6.0\JoinTheDots.dll
+C:\Users\Hawat\source\repos\JoinTheDots\JoinTheDots\obj\Debug\net6.0\refint\JoinTheDots.dll
+C:\Users\Hawat\source\repos\JoinTheDots\JoinTheDots\obj\Debug\net6.0\JoinTheDots.pdb
+C:\Users\Hawat\source\repos\JoinTheDots\JoinTheDots\obj\Debug\net6.0\JoinTheDots.genruntimeconfig.cache
+C:\Users\Hawat\source\repos\JoinTheDots\JoinTheDots\obj\Debug\net6.0\ref\JoinTheDots.dll

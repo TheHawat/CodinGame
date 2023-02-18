@@ -1,0 +1,15 @@
+C:\Users\Hawat\source\repos\CharacterReplacementProblem\CharacterReplacementProblem\bin\Debug\net6.0\CharacterReplacementProblem.exe
+C:\Users\Hawat\source\repos\CharacterReplacementProblem\CharacterReplacementProblem\bin\Debug\net6.0\CharacterReplacementProblem.deps.json
+C:\Users\Hawat\source\repos\CharacterReplacementProblem\CharacterReplacementProblem\bin\Debug\net6.0\CharacterReplacementProblem.runtimeconfig.json
+C:\Users\Hawat\source\repos\CharacterReplacementProblem\CharacterReplacementProblem\bin\Debug\net6.0\CharacterReplacementProblem.dll
+C:\Users\Hawat\source\repos\CharacterReplacementProblem\CharacterReplacementProblem\bin\Debug\net6.0\CharacterReplacementProblem.pdb
+C:\Users\Hawat\source\repos\CharacterReplacementProblem\CharacterReplacementProblem\obj\Debug\net6.0\CharacterReplacementProblem.csproj.AssemblyReference.cache
+C:\Users\Hawat\source\repos\CharacterReplacementProblem\CharacterReplacementProblem\obj\Debug\net6.0\CharacterReplacementProblem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hawat\source\repos\CharacterReplacementProblem\CharacterReplacementProblem\obj\Debug\net6.0\CharacterReplacementProblem.AssemblyInfoInputs.cache
+C:\Users\Hawat\source\repos\CharacterReplacementProblem\CharacterReplacementProblem\obj\Debug\net6.0\CharacterReplacementProblem.AssemblyInfo.cs
+C:\Users\Hawat\source\repos\CharacterReplacementProblem\CharacterReplacementProblem\obj\Debug\net6.0\CharacterReplacementProblem.csproj.CoreCompileInputs.cache
+C:\Users\Hawat\source\repos\CharacterReplacementProblem\CharacterReplacementProblem\obj\Debug\net6.0\CharacterReplacementProblem.dll
+C:\Users\Hawat\source\repos\CharacterReplacementProblem\CharacterReplacementProblem\obj\Debug\net6.0\refint\CharacterReplacementProblem.dll
+C:\Users\Hawat\source\repos\CharacterReplacementProblem\CharacterReplacementProblem\obj\Debug\net6.0\CharacterReplacementProblem.pdb
+C:\Users\Hawat\source\repos\CharacterReplacementProblem\CharacterReplacementProblem\obj\Debug\net6.0\CharacterReplacementProblem.genruntimeconfig.cache
+C:\Users\Hawat\source\repos\CharacterReplacementProblem\CharacterReplacementProblem\obj\Debug\net6.0\ref\CharacterReplacementProblem.dll

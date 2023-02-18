@@ -1,0 +1,15 @@
+C:\Users\Hawat\source\repos\EntryCode\EntryCode\bin\Debug\net6.0\EntryCode.exe
+C:\Users\Hawat\source\repos\EntryCode\EntryCode\bin\Debug\net6.0\EntryCode.deps.json
+C:\Users\Hawat\source\repos\EntryCode\EntryCode\bin\Debug\net6.0\EntryCode.runtimeconfig.json
+C:\Users\Hawat\source\repos\EntryCode\EntryCode\bin\Debug\net6.0\EntryCode.dll
+C:\Users\Hawat\source\repos\EntryCode\EntryCode\bin\Debug\net6.0\EntryCode.pdb
+C:\Users\Hawat\source\repos\EntryCode\EntryCode\obj\Debug\net6.0\EntryCode.csproj.AssemblyReference.cache
+C:\Users\Hawat\source\repos\EntryCode\EntryCode\obj\Debug\net6.0\EntryCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hawat\source\repos\EntryCode\EntryCode\obj\Debug\net6.0\EntryCode.AssemblyInfoInputs.cache
+C:\Users\Hawat\source\repos\EntryCode\EntryCode\obj\Debug\net6.0\EntryCode.AssemblyInfo.cs
+C:\Users\Hawat\source\repos\EntryCode\EntryCode\obj\Debug\net6.0\EntryCode.csproj.CoreCompileInputs.cache
+C:\Users\Hawat\source\repos\EntryCode\EntryCode\obj\Debug\net6.0\EntryCode.dll
+C:\Users\Hawat\source\repos\EntryCode\EntryCode\obj\Debug\net6.0\refint\EntryCode.dll
+C:\Users\Hawat\source\repos\EntryCode\EntryCode\obj\Debug\net6.0\EntryCode.pdb
+C:\Users\Hawat\source\repos\EntryCode\EntryCode\obj\Debug\net6.0\EntryCode.genruntimeconfig.cache
+C:\Users\Hawat\source\repos\EntryCode\EntryCode\obj\Debug\net6.0\ref\EntryCode.dll

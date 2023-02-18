@@ -1,0 +1,15 @@
+C:\Users\Hawat\source\repos\TheGift\TheGift\bin\Debug\net6.0\TheGift.exe
+C:\Users\Hawat\source\repos\TheGift\TheGift\bin\Debug\net6.0\TheGift.deps.json
+C:\Users\Hawat\source\repos\TheGift\TheGift\bin\Debug\net6.0\TheGift.runtimeconfig.json
+C:\Users\Hawat\source\repos\TheGift\TheGift\bin\Debug\net6.0\TheGift.dll
+C:\Users\Hawat\source\repos\TheGift\TheGift\bin\Debug\net6.0\TheGift.pdb
+C:\Users\Hawat\source\repos\TheGift\TheGift\obj\Debug\net6.0\TheGift.csproj.AssemblyReference.cache
+C:\Users\Hawat\source\repos\TheGift\TheGift\obj\Debug\net6.0\TheGift.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hawat\source\repos\TheGift\TheGift\obj\Debug\net6.0\TheGift.AssemblyInfoInputs.cache
+C:\Users\Hawat\source\repos\TheGift\TheGift\obj\Debug\net6.0\TheGift.AssemblyInfo.cs
+C:\Users\Hawat\source\repos\TheGift\TheGift\obj\Debug\net6.0\TheGift.csproj.CoreCompileInputs.cache
+C:\Users\Hawat\source\repos\TheGift\TheGift\obj\Debug\net6.0\TheGift.dll
+C:\Users\Hawat\source\repos\TheGift\TheGift\obj\Debug\net6.0\refint\TheGift.dll
+C:\Users\Hawat\source\repos\TheGift\TheGift\obj\Debug\net6.0\TheGift.pdb
+C:\Users\Hawat\source\repos\TheGift\TheGift\obj\Debug\net6.0\TheGift.genruntimeconfig.cache
+C:\Users\Hawat\source\repos\TheGift\TheGift\obj\Debug\net6.0\ref\TheGift.dll

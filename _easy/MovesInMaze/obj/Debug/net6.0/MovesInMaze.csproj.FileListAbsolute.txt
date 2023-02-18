@@ -1,0 +1,15 @@
+C:\Users\Hawat\source\repos\MovesInMaze\MovesInMaze\bin\Debug\net6.0\MovesInMaze.exe
+C:\Users\Hawat\source\repos\MovesInMaze\MovesInMaze\bin\Debug\net6.0\MovesInMaze.deps.json
+C:\Users\Hawat\source\repos\MovesInMaze\MovesInMaze\bin\Debug\net6.0\MovesInMaze.runtimeconfig.json
+C:\Users\Hawat\source\repos\MovesInMaze\MovesInMaze\bin\Debug\net6.0\MovesInMaze.dll
+C:\Users\Hawat\source\repos\MovesInMaze\MovesInMaze\bin\Debug\net6.0\MovesInMaze.pdb
+C:\Users\Hawat\source\repos\MovesInMaze\MovesInMaze\obj\Debug\net6.0\MovesInMaze.csproj.AssemblyReference.cache
+C:\Users\Hawat\source\repos\MovesInMaze\MovesInMaze\obj\Debug\net6.0\MovesInMaze.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hawat\source\repos\MovesInMaze\MovesInMaze\obj\Debug\net6.0\MovesInMaze.AssemblyInfoInputs.cache
+C:\Users\Hawat\source\repos\MovesInMaze\MovesInMaze\obj\Debug\net6.0\MovesInMaze.AssemblyInfo.cs
+C:\Users\Hawat\source\repos\MovesInMaze\MovesInMaze\obj\Debug\net6.0\MovesInMaze.csproj.CoreCompileInputs.cache
+C:\Users\Hawat\source\repos\MovesInMaze\MovesInMaze\obj\Debug\net6.0\MovesInMaze.dll
+C:\Users\Hawat\source\repos\MovesInMaze\MovesInMaze\obj\Debug\net6.0\refint\MovesInMaze.dll
+C:\Users\Hawat\source\repos\MovesInMaze\MovesInMaze\obj\Debug\net6.0\MovesInMaze.pdb
+C:\Users\Hawat\source\repos\MovesInMaze\MovesInMaze\obj\Debug\net6.0\MovesInMaze.genruntimeconfig.cache
+C:\Users\Hawat\source\repos\MovesInMaze\MovesInMaze\obj\Debug\net6.0\ref\MovesInMaze.dll

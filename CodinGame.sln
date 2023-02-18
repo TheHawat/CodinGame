@@ -39,6 +39,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DetectivePikachu4", "___har
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VortexTests", "___hard\VortexTests\VortexTests.csproj", "{214B4EF2-7E3C-40AD-AD76-AE3C5164BA11}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConwaySequence", "__medium\ConwaySequence\ConwaySequence.csproj", "{2C038ADB-87A2-49EA-9272-7C6F5366B625}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -101,6 +103,10 @@ Global
 		{214B4EF2-7E3C-40AD-AD76-AE3C5164BA11}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{214B4EF2-7E3C-40AD-AD76-AE3C5164BA11}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{214B4EF2-7E3C-40AD-AD76-AE3C5164BA11}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C038ADB-87A2-49EA-9272-7C6F5366B625}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C038ADB-87A2-49EA-9272-7C6F5366B625}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C038ADB-87A2-49EA-9272-7C6F5366B625}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C038ADB-87A2-49EA-9272-7C6F5366B625}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -120,6 +126,7 @@ Global
 		{11327F14-F1CD-4948-A39A-C11A0D7B8984} = {E72018A6-51F2-4E00-96F8-C39641729950}
 		{A00FD0A6-4E1A-4F89-AEAC-2E08F720FAAD} = {E72018A6-51F2-4E00-96F8-C39641729950}
 		{214B4EF2-7E3C-40AD-AD76-AE3C5164BA11} = {E72018A6-51F2-4E00-96F8-C39641729950}
+		{2C038ADB-87A2-49EA-9272-7C6F5366B625} = {9CF737A8-3B8D-42C3-B393-99E5E081C8F3}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {29A3EEF6-FE20-46D2-9CF6-4356CA4DED40}

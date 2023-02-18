@@ -1,0 +1,15 @@
+C:\Users\Hawat\source\repos\PiratesTreasure\PiratesTreasure\bin\Debug\net6.0\PiratesTreasure.exe
+C:\Users\Hawat\source\repos\PiratesTreasure\PiratesTreasure\bin\Debug\net6.0\PiratesTreasure.deps.json
+C:\Users\Hawat\source\repos\PiratesTreasure\PiratesTreasure\bin\Debug\net6.0\PiratesTreasure.runtimeconfig.json
+C:\Users\Hawat\source\repos\PiratesTreasure\PiratesTreasure\bin\Debug\net6.0\PiratesTreasure.dll
+C:\Users\Hawat\source\repos\PiratesTreasure\PiratesTreasure\bin\Debug\net6.0\PiratesTreasure.pdb
+C:\Users\Hawat\source\repos\PiratesTreasure\PiratesTreasure\obj\Debug\net6.0\PiratesTreasure.csproj.AssemblyReference.cache
+C:\Users\Hawat\source\repos\PiratesTreasure\PiratesTreasure\obj\Debug\net6.0\PiratesTreasure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hawat\source\repos\PiratesTreasure\PiratesTreasure\obj\Debug\net6.0\PiratesTreasure.AssemblyInfoInputs.cache
+C:\Users\Hawat\source\repos\PiratesTreasure\PiratesTreasure\obj\Debug\net6.0\PiratesTreasure.AssemblyInfo.cs
+C:\Users\Hawat\source\repos\PiratesTreasure\PiratesTreasure\obj\Debug\net6.0\PiratesTreasure.csproj.CoreCompileInputs.cache
+C:\Users\Hawat\source\repos\PiratesTreasure\PiratesTreasure\obj\Debug\net6.0\PiratesTreasure.dll
+C:\Users\Hawat\source\repos\PiratesTreasure\PiratesTreasure\obj\Debug\net6.0\refint\PiratesTreasure.dll
+C:\Users\Hawat\source\repos\PiratesTreasure\PiratesTreasure\obj\Debug\net6.0\PiratesTreasure.pdb
+C:\Users\Hawat\source\repos\PiratesTreasure\PiratesTreasure\obj\Debug\net6.0\PiratesTreasure.genruntimeconfig.cache
+C:\Users\Hawat\source\repos\PiratesTreasure\PiratesTreasure\obj\Debug\net6.0\ref\PiratesTreasure.dll

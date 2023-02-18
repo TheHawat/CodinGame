@@ -1,0 +1,15 @@
+C:\Users\Hawat\source\repos\CustomGameOfLife\CustomGameOfLife\bin\Debug\net6.0\CustomGameOfLife.exe
+C:\Users\Hawat\source\repos\CustomGameOfLife\CustomGameOfLife\bin\Debug\net6.0\CustomGameOfLife.deps.json
+C:\Users\Hawat\source\repos\CustomGameOfLife\CustomGameOfLife\bin\Debug\net6.0\CustomGameOfLife.runtimeconfig.json
+C:\Users\Hawat\source\repos\CustomGameOfLife\CustomGameOfLife\bin\Debug\net6.0\CustomGameOfLife.dll
+C:\Users\Hawat\source\repos\CustomGameOfLife\CustomGameOfLife\bin\Debug\net6.0\CustomGameOfLife.pdb
+C:\Users\Hawat\source\repos\CustomGameOfLife\CustomGameOfLife\obj\Debug\net6.0\CustomGameOfLife.csproj.AssemblyReference.cache
+C:\Users\Hawat\source\repos\CustomGameOfLife\CustomGameOfLife\obj\Debug\net6.0\CustomGameOfLife.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hawat\source\repos\CustomGameOfLife\CustomGameOfLife\obj\Debug\net6.0\CustomGameOfLife.AssemblyInfoInputs.cache
+C:\Users\Hawat\source\repos\CustomGameOfLife\CustomGameOfLife\obj\Debug\net6.0\CustomGameOfLife.AssemblyInfo.cs
+C:\Users\Hawat\source\repos\CustomGameOfLife\CustomGameOfLife\obj\Debug\net6.0\CustomGameOfLife.csproj.CoreCompileInputs.cache
+C:\Users\Hawat\source\repos\CustomGameOfLife\CustomGameOfLife\obj\Debug\net6.0\CustomGameOfLife.dll
+C:\Users\Hawat\source\repos\CustomGameOfLife\CustomGameOfLife\obj\Debug\net6.0\refint\CustomGameOfLife.dll
+C:\Users\Hawat\source\repos\CustomGameOfLife\CustomGameOfLife\obj\Debug\net6.0\CustomGameOfLife.pdb
+C:\Users\Hawat\source\repos\CustomGameOfLife\CustomGameOfLife\obj\Debug\net6.0\CustomGameOfLife.genruntimeconfig.cache
+C:\Users\Hawat\source\repos\CustomGameOfLife\CustomGameOfLife\obj\Debug\net6.0\ref\CustomGameOfLife.dll

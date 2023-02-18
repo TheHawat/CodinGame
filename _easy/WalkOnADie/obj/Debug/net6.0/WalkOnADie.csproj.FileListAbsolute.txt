@@ -1,0 +1,15 @@
+C:\Users\Hawat\source\repos\WalkOnADie\WalkOnADie\bin\Debug\net6.0\WalkOnADie.exe
+C:\Users\Hawat\source\repos\WalkOnADie\WalkOnADie\bin\Debug\net6.0\WalkOnADie.deps.json
+C:\Users\Hawat\source\repos\WalkOnADie\WalkOnADie\bin\Debug\net6.0\WalkOnADie.runtimeconfig.json
+C:\Users\Hawat\source\repos\WalkOnADie\WalkOnADie\bin\Debug\net6.0\WalkOnADie.dll
+C:\Users\Hawat\source\repos\WalkOnADie\WalkOnADie\bin\Debug\net6.0\WalkOnADie.pdb
+C:\Users\Hawat\source\repos\WalkOnADie\WalkOnADie\obj\Debug\net6.0\WalkOnADie.csproj.AssemblyReference.cache
+C:\Users\Hawat\source\repos\WalkOnADie\WalkOnADie\obj\Debug\net6.0\WalkOnADie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hawat\source\repos\WalkOnADie\WalkOnADie\obj\Debug\net6.0\WalkOnADie.AssemblyInfoInputs.cache
+C:\Users\Hawat\source\repos\WalkOnADie\WalkOnADie\obj\Debug\net6.0\WalkOnADie.AssemblyInfo.cs
+C:\Users\Hawat\source\repos\WalkOnADie\WalkOnADie\obj\Debug\net6.0\WalkOnADie.csproj.CoreCompileInputs.cache
+C:\Users\Hawat\source\repos\WalkOnADie\WalkOnADie\obj\Debug\net6.0\WalkOnADie.dll
+C:\Users\Hawat\source\repos\WalkOnADie\WalkOnADie\obj\Debug\net6.0\refint\WalkOnADie.dll
+C:\Users\Hawat\source\repos\WalkOnADie\WalkOnADie\obj\Debug\net6.0\WalkOnADie.pdb
+C:\Users\Hawat\source\repos\WalkOnADie\WalkOnADie\obj\Debug\net6.0\WalkOnADie.genruntimeconfig.cache
+C:\Users\Hawat\source\repos\WalkOnADie\WalkOnADie\obj\Debug\net6.0\ref\WalkOnADie.dll

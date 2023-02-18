@@ -1,0 +1,15 @@
+C:\Users\Hawat\source\repos\DieHandedness\DieHandedness\bin\Debug\net6.0\DieHandedness.exe
+C:\Users\Hawat\source\repos\DieHandedness\DieHandedness\bin\Debug\net6.0\DieHandedness.deps.json
+C:\Users\Hawat\source\repos\DieHandedness\DieHandedness\bin\Debug\net6.0\DieHandedness.runtimeconfig.json
+C:\Users\Hawat\source\repos\DieHandedness\DieHandedness\bin\Debug\net6.0\DieHandedness.dll
+C:\Users\Hawat\source\repos\DieHandedness\DieHandedness\bin\Debug\net6.0\DieHandedness.pdb
+C:\Users\Hawat\source\repos\DieHandedness\DieHandedness\obj\Debug\net6.0\DieHandedness.csproj.AssemblyReference.cache
+C:\Users\Hawat\source\repos\DieHandedness\DieHandedness\obj\Debug\net6.0\DieHandedness.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hawat\source\repos\DieHandedness\DieHandedness\obj\Debug\net6.0\DieHandedness.AssemblyInfoInputs.cache
+C:\Users\Hawat\source\repos\DieHandedness\DieHandedness\obj\Debug\net6.0\DieHandedness.AssemblyInfo.cs
+C:\Users\Hawat\source\repos\DieHandedness\DieHandedness\obj\Debug\net6.0\DieHandedness.csproj.CoreCompileInputs.cache
+C:\Users\Hawat\source\repos\DieHandedness\DieHandedness\obj\Debug\net6.0\DieHandedness.dll
+C:\Users\Hawat\source\repos\DieHandedness\DieHandedness\obj\Debug\net6.0\refint\DieHandedness.dll
+C:\Users\Hawat\source\repos\DieHandedness\DieHandedness\obj\Debug\net6.0\DieHandedness.pdb
+C:\Users\Hawat\source\repos\DieHandedness\DieHandedness\obj\Debug\net6.0\DieHandedness.genruntimeconfig.cache
+C:\Users\Hawat\source\repos\DieHandedness\DieHandedness\obj\Debug\net6.0\ref\DieHandedness.dll

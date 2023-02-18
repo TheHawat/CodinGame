@@ -1,0 +1,15 @@
+C:\Users\Hawat\source\repos\FrameThePicture\FrameThePicture\bin\Debug\net6.0\FrameThePicture.exe
+C:\Users\Hawat\source\repos\FrameThePicture\FrameThePicture\bin\Debug\net6.0\FrameThePicture.deps.json
+C:\Users\Hawat\source\repos\FrameThePicture\FrameThePicture\bin\Debug\net6.0\FrameThePicture.runtimeconfig.json
+C:\Users\Hawat\source\repos\FrameThePicture\FrameThePicture\bin\Debug\net6.0\FrameThePicture.dll
+C:\Users\Hawat\source\repos\FrameThePicture\FrameThePicture\bin\Debug\net6.0\FrameThePicture.pdb
+C:\Users\Hawat\source\repos\FrameThePicture\FrameThePicture\obj\Debug\net6.0\FrameThePicture.csproj.AssemblyReference.cache
+C:\Users\Hawat\source\repos\FrameThePicture\FrameThePicture\obj\Debug\net6.0\FrameThePicture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hawat\source\repos\FrameThePicture\FrameThePicture\obj\Debug\net6.0\FrameThePicture.AssemblyInfoInputs.cache
+C:\Users\Hawat\source\repos\FrameThePicture\FrameThePicture\obj\Debug\net6.0\FrameThePicture.AssemblyInfo.cs
+C:\Users\Hawat\source\repos\FrameThePicture\FrameThePicture\obj\Debug\net6.0\FrameThePicture.csproj.CoreCompileInputs.cache
+C:\Users\Hawat\source\repos\FrameThePicture\FrameThePicture\obj\Debug\net6.0\FrameThePicture.dll
+C:\Users\Hawat\source\repos\FrameThePicture\FrameThePicture\obj\Debug\net6.0\refint\FrameThePicture.dll
+C:\Users\Hawat\source\repos\FrameThePicture\FrameThePicture\obj\Debug\net6.0\FrameThePicture.pdb
+C:\Users\Hawat\source\repos\FrameThePicture\FrameThePicture\obj\Debug\net6.0\FrameThePicture.genruntimeconfig.cache
+C:\Users\Hawat\source\repos\FrameThePicture\FrameThePicture\obj\Debug\net6.0\ref\FrameThePicture.dll
