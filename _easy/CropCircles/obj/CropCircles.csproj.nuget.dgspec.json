@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Code\\CodinGame\\CropCircles\\CropCircles.csproj": {}
+    "F:\\Code\\CodinGame\\_easy\\CropCircles\\CropCircles.csproj": {}
   },
   "projects": {
-    "F:\\Code\\CodinGame\\CropCircles\\CropCircles.csproj": {
+    "F:\\Code\\CodinGame\\_easy\\CropCircles\\CropCircles.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Code\\CodinGame\\CropCircles\\CropCircles.csproj",
+        "projectUniqueName": "F:\\Code\\CodinGame\\_easy\\CropCircles\\CropCircles.csproj",
         "projectName": "CropCircles",
-        "projectPath": "F:\\Code\\CodinGame\\CropCircles\\CropCircles.csproj",
+        "projectPath": "F:\\Code\\CodinGame\\_easy\\CropCircles\\CropCircles.csproj",
         "packagesPath": "C:\\Users\\Hawat\\.nuget\\packages\\",
-        "outputPath": "F:\\Code\\CodinGame\\CropCircles\\obj\\",
+        "outputPath": "F:\\Code\\CodinGame\\_easy\\CropCircles\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "E:\\VSSC\\NuGetPackages"
