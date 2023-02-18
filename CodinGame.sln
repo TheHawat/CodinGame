@@ -31,6 +31,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AnotherRoadConstructionSite
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArtificialEmotionalIntelligence", "_easy\ArtificialEmotionalIntelligence\ArtificialEmotionalIntelligence.csproj", "{6B09031F-8D7F-4471-8B46-E487FD631F6B}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ASCIIArt", "_easy\ASCIIArt\ASCIIArt.csproj", "{13619C10-6777-4AC0-8770-EEE0AD709F81}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -77,6 +79,10 @@ Global
 		{6B09031F-8D7F-4471-8B46-E487FD631F6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6B09031F-8D7F-4471-8B46-E487FD631F6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6B09031F-8D7F-4471-8B46-E487FD631F6B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13619C10-6777-4AC0-8770-EEE0AD709F81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13619C10-6777-4AC0-8770-EEE0AD709F81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13619C10-6777-4AC0-8770-EEE0AD709F81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13619C10-6777-4AC0-8770-EEE0AD709F81}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -92,6 +98,7 @@ Global
 		{AFD8807C-7FC7-4DC3-A7D2-14068E9BD1A4} = {A2472AC7-0246-4B3B-8CAF-FB36BC961ECE}
 		{089036D6-B064-43B3-8C53-54F2DF5D47DE} = {A2472AC7-0246-4B3B-8CAF-FB36BC961ECE}
 		{6B09031F-8D7F-4471-8B46-E487FD631F6B} = {A2472AC7-0246-4B3B-8CAF-FB36BC961ECE}
+		{13619C10-6777-4AC0-8770-EEE0AD709F81} = {A2472AC7-0246-4B3B-8CAF-FB36BC961ECE}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {29A3EEF6-FE20-46D2-9CF6-4356CA4DED40}
