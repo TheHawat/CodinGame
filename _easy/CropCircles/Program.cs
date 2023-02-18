@@ -66,9 +66,9 @@ class Crops
         return 0;
     }
     public void ProcessLine(string instructions) {
-        string[] SeparateInstructions = Console.ReadLine().Split(' ');
-        foreach (string Instruction in SeparateInstructions) {
-            ProcessInstruction(Instruction);
+        string[] SeparateInstructions = instructions.Split(' ');
+        foreach (string ins in SeparateInstructions) {
+            ProcessInstruction(ins);
         }
     }
 }
