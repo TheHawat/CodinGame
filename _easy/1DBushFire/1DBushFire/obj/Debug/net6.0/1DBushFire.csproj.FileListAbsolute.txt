@@ -1,0 +1,15 @@
+C:\Users\Hawat\source\repos\1DBushFire\1DBushFire\bin\Debug\net6.0\1DBushFire.exe
+C:\Users\Hawat\source\repos\1DBushFire\1DBushFire\bin\Debug\net6.0\1DBushFire.deps.json
+C:\Users\Hawat\source\repos\1DBushFire\1DBushFire\bin\Debug\net6.0\1DBushFire.runtimeconfig.json
+C:\Users\Hawat\source\repos\1DBushFire\1DBushFire\bin\Debug\net6.0\1DBushFire.dll
+C:\Users\Hawat\source\repos\1DBushFire\1DBushFire\bin\Debug\net6.0\1DBushFire.pdb
+C:\Users\Hawat\source\repos\1DBushFire\1DBushFire\obj\Debug\net6.0\1DBushFire.csproj.AssemblyReference.cache
+C:\Users\Hawat\source\repos\1DBushFire\1DBushFire\obj\Debug\net6.0\1DBushFire.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hawat\source\repos\1DBushFire\1DBushFire\obj\Debug\net6.0\1DBushFire.AssemblyInfoInputs.cache
+C:\Users\Hawat\source\repos\1DBushFire\1DBushFire\obj\Debug\net6.0\1DBushFire.AssemblyInfo.cs
+C:\Users\Hawat\source\repos\1DBushFire\1DBushFire\obj\Debug\net6.0\1DBushFire.csproj.CoreCompileInputs.cache
+C:\Users\Hawat\source\repos\1DBushFire\1DBushFire\obj\Debug\net6.0\1DBushFire.dll
+C:\Users\Hawat\source\repos\1DBushFire\1DBushFire\obj\Debug\net6.0\refint\1DBushFire.dll
+C:\Users\Hawat\source\repos\1DBushFire\1DBushFire\obj\Debug\net6.0\1DBushFire.pdb
+C:\Users\Hawat\source\repos\1DBushFire\1DBushFire\obj\Debug\net6.0\1DBushFire.genruntimeconfig.cache
+C:\Users\Hawat\source\repos\1DBushFire\1DBushFire\obj\Debug\net6.0\ref\1DBushFire.dll

@@ -1,5 +1,18 @@
 ﻿//https://www.codingame.com/training/easy/crop-circles
 using System;
+class Solution
+{
+    static void Main(string[] args) {
+        Crops Hawat = ProcessInput();
+        Hawat.TypeOut();
+    }
+    static Crops ProcessInput() {
+        string Instructions = Console.ReadLine();
+        Crops Hawat = new();
+        Hawat.ProcessLine(Instructions);
+        return Hawat;
+    }
+}
 class Crops
 {
     private bool[,] _cropField;
@@ -45,7 +58,6 @@ class Crops
         if (nextX >= 0 && nextY >= 0 && nextX < _height && nextY < _width) return true;
         return false;
     }
-
     public void ProcessInstruction(string instruction) {
         int Mode = ChoseMode(ref instruction);
         int X = instruction[1] - 'a';
@@ -70,18 +82,5 @@ class Crops
         foreach (string ins in SeparateInstructions) {
             ProcessInstruction(ins);
         }
-    }
-}
-class Solution
-{
-    static Crops ProcessInput() {
-        string Instructions = Console.ReadLine();
-        Crops Hawat = new();
-        Hawat.ProcessLine(Instructions);
-        return Hawat;
-    }
-    static void Main(string[] args) {
-        Crops Hawat = ProcessInput();
-        Hawat.TypeOut();
     }
 }
