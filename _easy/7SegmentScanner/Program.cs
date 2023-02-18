@@ -1,4 +1,5 @@
-﻿using System;
+﻿//https://www.codingame.com/ide/puzzle/7-segment-scanner
+using System;
 using System.Collections.Generic;
 class Solution
 {

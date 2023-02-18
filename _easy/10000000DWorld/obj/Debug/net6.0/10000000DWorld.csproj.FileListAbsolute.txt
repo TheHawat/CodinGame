@@ -1,0 +1,15 @@
+C:\Users\Hawat\source\repos\10000000DWorld\10000000DWorld\bin\Debug\net6.0\10000000DWorld.exe
+C:\Users\Hawat\source\repos\10000000DWorld\10000000DWorld\bin\Debug\net6.0\10000000DWorld.deps.json
+C:\Users\Hawat\source\repos\10000000DWorld\10000000DWorld\bin\Debug\net6.0\10000000DWorld.runtimeconfig.json
+C:\Users\Hawat\source\repos\10000000DWorld\10000000DWorld\bin\Debug\net6.0\10000000DWorld.dll
+C:\Users\Hawat\source\repos\10000000DWorld\10000000DWorld\bin\Debug\net6.0\10000000DWorld.pdb
+C:\Users\Hawat\source\repos\10000000DWorld\10000000DWorld\obj\Debug\net6.0\10000000DWorld.csproj.AssemblyReference.cache
+C:\Users\Hawat\source\repos\10000000DWorld\10000000DWorld\obj\Debug\net6.0\10000000DWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hawat\source\repos\10000000DWorld\10000000DWorld\obj\Debug\net6.0\10000000DWorld.AssemblyInfoInputs.cache
+C:\Users\Hawat\source\repos\10000000DWorld\10000000DWorld\obj\Debug\net6.0\10000000DWorld.AssemblyInfo.cs
+C:\Users\Hawat\source\repos\10000000DWorld\10000000DWorld\obj\Debug\net6.0\10000000DWorld.csproj.CoreCompileInputs.cache
+C:\Users\Hawat\source\repos\10000000DWorld\10000000DWorld\obj\Debug\net6.0\10000000DWorld.dll
+C:\Users\Hawat\source\repos\10000000DWorld\10000000DWorld\obj\Debug\net6.0\refint\10000000DWorld.dll
+C:\Users\Hawat\source\repos\10000000DWorld\10000000DWorld\obj\Debug\net6.0\10000000DWorld.pdb
+C:\Users\Hawat\source\repos\10000000DWorld\10000000DWorld\obj\Debug\net6.0\10000000DWorld.genruntimeconfig.cache
+C:\Users\Hawat\source\repos\10000000DWorld\10000000DWorld\obj\Debug\net6.0\ref\10000000DWorld.dll
