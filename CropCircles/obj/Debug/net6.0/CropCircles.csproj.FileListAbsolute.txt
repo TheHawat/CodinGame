@@ -1,0 +1,15 @@
+F:\Code\CodinGame\CropCircles\bin\Debug\net6.0\CropCircles.exe
+F:\Code\CodinGame\CropCircles\bin\Debug\net6.0\CropCircles.deps.json
+F:\Code\CodinGame\CropCircles\bin\Debug\net6.0\CropCircles.runtimeconfig.json
+F:\Code\CodinGame\CropCircles\bin\Debug\net6.0\CropCircles.dll
+F:\Code\CodinGame\CropCircles\bin\Debug\net6.0\CropCircles.pdb
+F:\Code\CodinGame\CropCircles\obj\Debug\net6.0\CropCircles.csproj.AssemblyReference.cache
+F:\Code\CodinGame\CropCircles\obj\Debug\net6.0\CropCircles.GeneratedMSBuildEditorConfig.editorconfig
+F:\Code\CodinGame\CropCircles\obj\Debug\net6.0\CropCircles.AssemblyInfoInputs.cache
+F:\Code\CodinGame\CropCircles\obj\Debug\net6.0\CropCircles.AssemblyInfo.cs
+F:\Code\CodinGame\CropCircles\obj\Debug\net6.0\CropCircles.csproj.CoreCompileInputs.cache
+F:\Code\CodinGame\CropCircles\obj\Debug\net6.0\CropCircles.dll
+F:\Code\CodinGame\CropCircles\obj\Debug\net6.0\refint\CropCircles.dll
+F:\Code\CodinGame\CropCircles\obj\Debug\net6.0\CropCircles.pdb
+F:\Code\CodinGame\CropCircles\obj\Debug\net6.0\CropCircles.genruntimeconfig.cache
+F:\Code\CodinGame\CropCircles\obj\Debug\net6.0\ref\CropCircles.dll
