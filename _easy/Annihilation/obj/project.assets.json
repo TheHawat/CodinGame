@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Code\\CodinGame\\_easy\\10000000DWorld\\100DWorld.csproj",
-      "projectName": "100DWorld",
-      "projectPath": "F:\\Code\\CodinGame\\_easy\\10000000DWorld\\100DWorld.csproj",
+      "projectUniqueName": "F:\\Code\\CodinGame\\_easy\\Annihilation\\Annihilation.csproj",
+      "projectName": "Annihilation",
+      "projectPath": "F:\\Code\\CodinGame\\_easy\\Annihilation\\Annihilation.csproj",
       "packagesPath": "C:\\Users\\Hawat\\.nuget\\packages\\",
-      "outputPath": "F:\\Code\\CodinGame\\_easy\\10000000DWorld\\obj\\",
+      "outputPath": "F:\\Code\\CodinGame\\_easy\\Annihilation\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "E:\\VSSC\\NuGetPackages"
