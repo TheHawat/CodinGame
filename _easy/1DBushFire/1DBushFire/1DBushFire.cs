@@ -1,4 +1,5 @@
 ﻿//https://www.codingame.com/ide/puzzle/1d-bush-fire
+using System;
 class Solution
 {
     static void Main(string[] args) {
