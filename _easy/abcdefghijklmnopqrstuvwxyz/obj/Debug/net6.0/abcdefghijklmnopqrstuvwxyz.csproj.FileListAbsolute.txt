@@ -1,0 +1,15 @@
+C:\Users\Hawat\source\repos\abcdefghijklmnopqrstuvwxyz\abcdefghijklmnopqrstuvwxyz\bin\Debug\net6.0\abcdefghijklmnopqrstuvwxyz.exe
+C:\Users\Hawat\source\repos\abcdefghijklmnopqrstuvwxyz\abcdefghijklmnopqrstuvwxyz\bin\Debug\net6.0\abcdefghijklmnopqrstuvwxyz.deps.json
+C:\Users\Hawat\source\repos\abcdefghijklmnopqrstuvwxyz\abcdefghijklmnopqrstuvwxyz\bin\Debug\net6.0\abcdefghijklmnopqrstuvwxyz.runtimeconfig.json
+C:\Users\Hawat\source\repos\abcdefghijklmnopqrstuvwxyz\abcdefghijklmnopqrstuvwxyz\bin\Debug\net6.0\abcdefghijklmnopqrstuvwxyz.dll
+C:\Users\Hawat\source\repos\abcdefghijklmnopqrstuvwxyz\abcdefghijklmnopqrstuvwxyz\bin\Debug\net6.0\abcdefghijklmnopqrstuvwxyz.pdb
+C:\Users\Hawat\source\repos\abcdefghijklmnopqrstuvwxyz\abcdefghijklmnopqrstuvwxyz\obj\Debug\net6.0\abcdefghijklmnopqrstuvwxyz.csproj.AssemblyReference.cache
+C:\Users\Hawat\source\repos\abcdefghijklmnopqrstuvwxyz\abcdefghijklmnopqrstuvwxyz\obj\Debug\net6.0\abcdefghijklmnopqrstuvwxyz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hawat\source\repos\abcdefghijklmnopqrstuvwxyz\abcdefghijklmnopqrstuvwxyz\obj\Debug\net6.0\abcdefghijklmnopqrstuvwxyz.AssemblyInfoInputs.cache
+C:\Users\Hawat\source\repos\abcdefghijklmnopqrstuvwxyz\abcdefghijklmnopqrstuvwxyz\obj\Debug\net6.0\abcdefghijklmnopqrstuvwxyz.AssemblyInfo.cs
+C:\Users\Hawat\source\repos\abcdefghijklmnopqrstuvwxyz\abcdefghijklmnopqrstuvwxyz\obj\Debug\net6.0\abcdefghijklmnopqrstuvwxyz.csproj.CoreCompileInputs.cache
+C:\Users\Hawat\source\repos\abcdefghijklmnopqrstuvwxyz\abcdefghijklmnopqrstuvwxyz\obj\Debug\net6.0\abcdefghijklmnopqrstuvwxyz.dll
+C:\Users\Hawat\source\repos\abcdefghijklmnopqrstuvwxyz\abcdefghijklmnopqrstuvwxyz\obj\Debug\net6.0\refint\abcdefghijklmnopqrstuvwxyz.dll
+C:\Users\Hawat\source\repos\abcdefghijklmnopqrstuvwxyz\abcdefghijklmnopqrstuvwxyz\obj\Debug\net6.0\abcdefghijklmnopqrstuvwxyz.pdb
+C:\Users\Hawat\source\repos\abcdefghijklmnopqrstuvwxyz\abcdefghijklmnopqrstuvwxyz\obj\Debug\net6.0\abcdefghijklmnopqrstuvwxyz.genruntimeconfig.cache
+C:\Users\Hawat\source\repos\abcdefghijklmnopqrstuvwxyz\abcdefghijklmnopqrstuvwxyz\obj\Debug\net6.0\ref\abcdefghijklmnopqrstuvwxyz.dll
