@@ -1,0 +1,15 @@
+C:\Users\Hawat\source\repos\DetectivePikachu4\DetectivePikachu4\bin\Debug\net6.0\DetectivePikachu4.exe
+C:\Users\Hawat\source\repos\DetectivePikachu4\DetectivePikachu4\bin\Debug\net6.0\DetectivePikachu4.deps.json
+C:\Users\Hawat\source\repos\DetectivePikachu4\DetectivePikachu4\bin\Debug\net6.0\DetectivePikachu4.runtimeconfig.json
+C:\Users\Hawat\source\repos\DetectivePikachu4\DetectivePikachu4\bin\Debug\net6.0\DetectivePikachu4.dll
+C:\Users\Hawat\source\repos\DetectivePikachu4\DetectivePikachu4\bin\Debug\net6.0\DetectivePikachu4.pdb
+C:\Users\Hawat\source\repos\DetectivePikachu4\DetectivePikachu4\obj\Debug\net6.0\DetectivePikachu4.csproj.AssemblyReference.cache
+C:\Users\Hawat\source\repos\DetectivePikachu4\DetectivePikachu4\obj\Debug\net6.0\DetectivePikachu4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hawat\source\repos\DetectivePikachu4\DetectivePikachu4\obj\Debug\net6.0\DetectivePikachu4.AssemblyInfoInputs.cache
+C:\Users\Hawat\source\repos\DetectivePikachu4\DetectivePikachu4\obj\Debug\net6.0\DetectivePikachu4.AssemblyInfo.cs
+C:\Users\Hawat\source\repos\DetectivePikachu4\DetectivePikachu4\obj\Debug\net6.0\DetectivePikachu4.csproj.CoreCompileInputs.cache
+C:\Users\Hawat\source\repos\DetectivePikachu4\DetectivePikachu4\obj\Debug\net6.0\DetectivePikachu4.dll
+C:\Users\Hawat\source\repos\DetectivePikachu4\DetectivePikachu4\obj\Debug\net6.0\refint\DetectivePikachu4.dll
+C:\Users\Hawat\source\repos\DetectivePikachu4\DetectivePikachu4\obj\Debug\net6.0\DetectivePikachu4.pdb
+C:\Users\Hawat\source\repos\DetectivePikachu4\DetectivePikachu4\obj\Debug\net6.0\DetectivePikachu4.genruntimeconfig.cache
+C:\Users\Hawat\source\repos\DetectivePikachu4\DetectivePikachu4\obj\Debug\net6.0\ref\DetectivePikachu4.dll
