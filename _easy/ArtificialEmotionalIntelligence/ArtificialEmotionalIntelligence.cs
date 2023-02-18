@@ -22,7 +22,7 @@ class MessageGenerator
     private string[] _goodList = { "love", "forgiveness", "friendship", "inspiration", "epic transformations", "wins" };
     private string[] _badList = { "crime", "disappointment", "disasters", "illness", "injury", "investment loss" };
     private string _vowels = "aeiouy";
-    private string _constants = "bcdfghjklmnpqrstvwxyz";
+    private string _constants = "bcdfghjklmnpqrstvwxz";
 
     public MessageGenerator(string? name) {
         Name = name;
