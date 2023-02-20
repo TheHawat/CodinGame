@@ -1,0 +1,15 @@
+C:\Users\Hawat\source\repos\War\War\bin\Debug\net6.0\War.exe
+C:\Users\Hawat\source\repos\War\War\bin\Debug\net6.0\War.deps.json
+C:\Users\Hawat\source\repos\War\War\bin\Debug\net6.0\War.runtimeconfig.json
+C:\Users\Hawat\source\repos\War\War\bin\Debug\net6.0\War.dll
+C:\Users\Hawat\source\repos\War\War\bin\Debug\net6.0\War.pdb
+C:\Users\Hawat\source\repos\War\War\obj\Debug\net6.0\War.csproj.AssemblyReference.cache
+C:\Users\Hawat\source\repos\War\War\obj\Debug\net6.0\War.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hawat\source\repos\War\War\obj\Debug\net6.0\War.AssemblyInfoInputs.cache
+C:\Users\Hawat\source\repos\War\War\obj\Debug\net6.0\War.AssemblyInfo.cs
+C:\Users\Hawat\source\repos\War\War\obj\Debug\net6.0\War.csproj.CoreCompileInputs.cache
+C:\Users\Hawat\source\repos\War\War\obj\Debug\net6.0\War.dll
+C:\Users\Hawat\source\repos\War\War\obj\Debug\net6.0\refint\War.dll
+C:\Users\Hawat\source\repos\War\War\obj\Debug\net6.0\War.pdb
+C:\Users\Hawat\source\repos\War\War\obj\Debug\net6.0\War.genruntimeconfig.cache
+C:\Users\Hawat\source\repos\War\War\obj\Debug\net6.0\ref\War.dll

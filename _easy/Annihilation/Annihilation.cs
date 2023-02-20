@@ -1,4 +1,6 @@
-﻿using System;
+﻿//--
+//https://www.codingame.com/training/easy/asteroids
+using System;
 using System.Linq;
 using System.Collections.Generic;
 class Solution

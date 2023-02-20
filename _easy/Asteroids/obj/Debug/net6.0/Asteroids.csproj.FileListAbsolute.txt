@@ -1,0 +1,15 @@
+C:\Users\Hawat\source\repos\Asteroids\Asteroids\bin\Debug\net6.0\Asteroids.exe
+C:\Users\Hawat\source\repos\Asteroids\Asteroids\bin\Debug\net6.0\Asteroids.deps.json
+C:\Users\Hawat\source\repos\Asteroids\Asteroids\bin\Debug\net6.0\Asteroids.runtimeconfig.json
+C:\Users\Hawat\source\repos\Asteroids\Asteroids\bin\Debug\net6.0\Asteroids.dll
+C:\Users\Hawat\source\repos\Asteroids\Asteroids\bin\Debug\net6.0\Asteroids.pdb
+C:\Users\Hawat\source\repos\Asteroids\Asteroids\obj\Debug\net6.0\Asteroids.csproj.AssemblyReference.cache
+C:\Users\Hawat\source\repos\Asteroids\Asteroids\obj\Debug\net6.0\Asteroids.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hawat\source\repos\Asteroids\Asteroids\obj\Debug\net6.0\Asteroids.AssemblyInfoInputs.cache
+C:\Users\Hawat\source\repos\Asteroids\Asteroids\obj\Debug\net6.0\Asteroids.AssemblyInfo.cs
+C:\Users\Hawat\source\repos\Asteroids\Asteroids\obj\Debug\net6.0\Asteroids.csproj.CoreCompileInputs.cache
+C:\Users\Hawat\source\repos\Asteroids\Asteroids\obj\Debug\net6.0\Asteroids.dll
+C:\Users\Hawat\source\repos\Asteroids\Asteroids\obj\Debug\net6.0\refint\Asteroids.dll
+C:\Users\Hawat\source\repos\Asteroids\Asteroids\obj\Debug\net6.0\Asteroids.pdb
+C:\Users\Hawat\source\repos\Asteroids\Asteroids\obj\Debug\net6.0\Asteroids.genruntimeconfig.cache
+C:\Users\Hawat\source\repos\Asteroids\Asteroids\obj\Debug\net6.0\ref\Asteroids.dll
