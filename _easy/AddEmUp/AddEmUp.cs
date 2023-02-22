@@ -11,6 +11,7 @@ class Solution
         Console.WriteLine(CardAccountant.CheapestPrice(Inputs));
     }
 }
+
 static class CardAccountant
 {
     public static int CheapestPrice(string input) {
