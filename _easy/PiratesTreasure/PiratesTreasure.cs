@@ -1,6 +1,7 @@
 ﻿//https://www.codingame.com/ide/puzzle/pirates-treasure
 using System;
 using System.Collections.Generic;
+
 class Solution
 {
     static void Main(string[] args) {
