@@ -71,6 +71,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "War", "__medium\War\War.csp
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HappyNumbers", "_easy\HappyNumbers\HappyNumbers.csproj", "{A6F7851A-5D30-4B75-88D0-D2EE1425F949}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MountainMap", "_easy\MountainMap\MountainMap.csproj", "{3F849A71-5CA2-495A-9E41-3BBCBA13E595}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -197,6 +199,10 @@ Global
 		{A6F7851A-5D30-4B75-88D0-D2EE1425F949}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A6F7851A-5D30-4B75-88D0-D2EE1425F949}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A6F7851A-5D30-4B75-88D0-D2EE1425F949}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F849A71-5CA2-495A-9E41-3BBCBA13E595}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F849A71-5CA2-495A-9E41-3BBCBA13E595}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F849A71-5CA2-495A-9E41-3BBCBA13E595}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F849A71-5CA2-495A-9E41-3BBCBA13E595}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -232,6 +238,7 @@ Global
 		{4256C6B4-8BEA-4EA1-98E3-06694B840CC2} = {A2472AC7-0246-4B3B-8CAF-FB36BC961ECE}
 		{6674DDDD-5E65-455B-921B-029B7177393B} = {9CF737A8-3B8D-42C3-B393-99E5E081C8F3}
 		{A6F7851A-5D30-4B75-88D0-D2EE1425F949} = {A2472AC7-0246-4B3B-8CAF-FB36BC961ECE}
+		{3F849A71-5CA2-495A-9E41-3BBCBA13E595} = {A2472AC7-0246-4B3B-8CAF-FB36BC961ECE}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {29A3EEF6-FE20-46D2-9CF6-4356CA4DED40}
