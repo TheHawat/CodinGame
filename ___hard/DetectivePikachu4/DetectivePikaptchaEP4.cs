@@ -2,6 +2,37 @@
 using System;
 using System.Linq;
 using System.Collections.Generic;
+class Player
+{
+    static char[] Directions = new char[] { '^', '>', 'v', '<' };
+    static int Direction = 0;
+    static (int, int) Position = (0, 0);
+    static void Main(string[] args) {
+        PikaMaze Hawat = ReadInput();
+        Hawat.ProgressAllMoves();
+        Hawat.TypeOut();
+    }
+    private static PikaMaze ReadInput() {
+        int N = int.Parse(Console.ReadLine());
+        List<int[]> Maze = new();
+        Maze = ReadMaze(N);
+        bool Side = Console.ReadLine()[0] == 'R' ? true : false;
+        return new PikaMaze(N, Direction, Side, Maze, Position);
+    }
+    private static List<int[]> ReadMaze(int N) {
+        List<int[]> Maze = new();
+        for (int i = 0; i < 6 * N; i++) {
+            Maze.Add(Array.ConvertAll(Console.ReadLine().ToCharArray(), x => x == '#' ? -1 : x == '0' ? 0 : Array.IndexOf(Directions, x) - 5));
+            int StartingIndex = Maze[i].Min();
+            if (StartingIndex < -1) {
+                Direction = StartingIndex + 5;
+                Position = (i, Array.IndexOf(Maze[i], StartingIndex));
+                Maze[i][Array.IndexOf(Maze[i], StartingIndex)] = 0;
+            }
+        }
+        return Maze;
+    }
+}
 
 class PikaMaze
 {
@@ -119,36 +150,5 @@ class PikaMaze
         for (int i = 0; i < _maze.Count; i++) {
             Console.WriteLine(Array.ConvertAll(_maze[i], x => x == -1 ? '#' : x.ToString()[0]).ToArray());
         }
-    }
-}
-class Player
-{
-    static char[] Directions = new char[] { '^', '>', 'v', '<' };
-    static int Direction = 0;
-    static (int, int) Position = (0, 0);
-    static void Main(string[] args) {
-        PikaMaze Hawat = ReadInput();
-        Hawat.ProgressAllMoves();
-        Hawat.TypeOut();
-    }
-    private static PikaMaze ReadInput() {
-        int N = int.Parse(Console.ReadLine());
-        List<int[]> Maze = new();
-        Maze = ReadMaze(N);
-        bool Side = Console.ReadLine()[0] == 'R' ? true : false;
-        return new PikaMaze(N, Direction, Side, Maze, Position);
-    }
-    private static List<int[]> ReadMaze(int N) {
-        List<int[]> Maze = new();
-        for (int i = 0; i < 6 * N; i++) {
-            Maze.Add(Array.ConvertAll(Console.ReadLine().ToCharArray(), x => x == '#' ? -1 : x == '0' ? 0 : Array.IndexOf(Directions, x) - 5));
-            int StartingIndex = Maze[i].Min();
-            if (StartingIndex < -1) {
-                Direction = StartingIndex + 5;
-                Position = (i, Array.IndexOf(Maze[i], StartingIndex));
-                Maze[i][Array.IndexOf(Maze[i], StartingIndex)] = 0;
-            }
-        }
-        return Maze;
     }
 }
