@@ -22,6 +22,7 @@ class Solution
         return $"{Result.Y} {Result.X}";
     }
 }
+
 class Maze
 {
     private List<string> _mazeImage;
