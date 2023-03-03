@@ -79,6 +79,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		.gitignore = .gitignore
 	EndProjectSection
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EncryptionDecryptionofEnimaMachine", "_easy\EncryptionDecryptionofEnimaMachine\EncryptionDecryptionofEnimaMachine.csproj", "{5011F31A-6A2C-4BDD-8BEE-3FB5CEA7A7FA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreateTurnHereSigns", "_easy\CreateTurnHereSigns\CreateTurnHereSigns.csproj", "{F4202471-5184-4D41-AC78-7FEE94415C93}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -209,6 +213,14 @@ Global
 		{3F849A71-5CA2-495A-9E41-3BBCBA13E595}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3F849A71-5CA2-495A-9E41-3BBCBA13E595}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3F849A71-5CA2-495A-9E41-3BBCBA13E595}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5011F31A-6A2C-4BDD-8BEE-3FB5CEA7A7FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5011F31A-6A2C-4BDD-8BEE-3FB5CEA7A7FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5011F31A-6A2C-4BDD-8BEE-3FB5CEA7A7FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5011F31A-6A2C-4BDD-8BEE-3FB5CEA7A7FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4202471-5184-4D41-AC78-7FEE94415C93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4202471-5184-4D41-AC78-7FEE94415C93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4202471-5184-4D41-AC78-7FEE94415C93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4202471-5184-4D41-AC78-7FEE94415C93}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -245,6 +257,8 @@ Global
 		{6674DDDD-5E65-455B-921B-029B7177393B} = {9CF737A8-3B8D-42C3-B393-99E5E081C8F3}
 		{A6F7851A-5D30-4B75-88D0-D2EE1425F949} = {A2472AC7-0246-4B3B-8CAF-FB36BC961ECE}
 		{3F849A71-5CA2-495A-9E41-3BBCBA13E595} = {A2472AC7-0246-4B3B-8CAF-FB36BC961ECE}
+		{5011F31A-6A2C-4BDD-8BEE-3FB5CEA7A7FA} = {A2472AC7-0246-4B3B-8CAF-FB36BC961ECE}
+		{F4202471-5184-4D41-AC78-7FEE94415C93} = {A2472AC7-0246-4B3B-8CAF-FB36BC961ECE}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {29A3EEF6-FE20-46D2-9CF6-4356CA4DED40}
